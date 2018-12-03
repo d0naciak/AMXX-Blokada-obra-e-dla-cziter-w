@@ -11,7 +11,7 @@ amx_blockdmg <nick / sid / userid> - blokuje zadawanie obrażeń przez danego gr
 Dostęp do komendy mają wyłącznie admini z flagą banowania!
 
 # Instalacja
-blockdmg.sma wrzuć do cstrike/addons/amxmodx/scripting
-blockdmg.amxx wrzuć do cstrike/addons/amxmodx/plugins
-Otwórz cstrike/addons/amxmodx/configs/plugins.ini i na końcu dopisz blockdmg.amxx
-Zmień mapę i plugin będzie gotowy do działania.
+blockdmg.sma wrzuć do cstrike/addons/amxmodx/scripting <br>
+blockdmg.amxx wrzuć do cstrike/addons/amxmodx/plugins <br>
+Otwórz cstrike/addons/amxmodx/configs/plugins.ini i na końcu dopisz blockdmg.amxx <br>
+Zmień mapę i plugin będzie gotowy do działania. <br>
