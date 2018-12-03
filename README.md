@@ -1,5 +1,5 @@
 # Ogólne
-Dzięki temu plugnowi admin ma może utrudnić życie np. cziterowi poprzez zablokowanie zadawania obrażeń przez niego. Co z tego że odpał będzie latał na aimie, skoro te headshoty i tak nikogo nie zranią? Plugin genialny w swojej prostocie.
+Dzięki temu plugnowi admin może utrudnić życie np. cziterowi poprzez zablokowanie zadawania obrażeń przez niego. Co z tego że odpał będzie latał na aimie, skoro te headshoty i tak nikogo nie zranią? Plugin genialny w swojej prostocie.
 
 # Komenda
 
